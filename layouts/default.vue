@@ -1,5 +1,6 @@
 <script setup>
 const user = useUser();
+// const isLoggedIn = useIsLoggedIn();
 </script>
 <template>
   <div>
